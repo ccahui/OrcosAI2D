@@ -1,0 +1,3619 @@
+fileFormatVersion: 2
+guid: 4f428a198693072e0a20ab0a4caf29de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7092630205431109308
+    second: Grodd-removebg_0
+  - first:
+      213: -8009534647134672881
+    second: Grodd-removebg_1
+  - first:
+      213: 6581510260207439185
+    second: Grodd-removebg_2
+  - first:
+      213: -1557574715096735519
+    second: Grodd-removebg_3
+  - first:
+      213: -6391523365111286775
+    second: Grodd-removebg_4
+  - first:
+      213: 8339641458424981535
+    second: Grodd-removebg_5
+  - first:
+      213: 3458157004968815425
+    second: Grodd-removebg_6
+  - first:
+      213: 5679747793418935815
+    second: Grodd-removebg_7
+  - first:
+      213: -4740496946335372935
+    second: Grodd-removebg_8
+  - first:
+      213: -8944833934459023018
+    second: Grodd-removebg_9
+  - first:
+      213: -7495388174856333062
+    second: Grodd-removebg_10
+  - first:
+      213: 8718371259714899150
+    second: Grodd-removebg_11
+  - first:
+      213: -299729946735474523
+    second: Grodd-removebg_12
+  - first:
+      213: 4663563729850017303
+    second: Grodd-removebg_13
+  - first:
+      213: -8716445013402630909
+    second: Grodd-removebg_14
+  - first:
+      213: 82195406724210677
+    second: Grodd-removebg_15
+  - first:
+      213: -6720671767681419091
+    second: Grodd-removebg_16
+  - first:
+      213: -113617483650423597
+    second: Grodd-removebg_17
+  - first:
+      213: 7277492980526283451
+    second: Grodd-removebg_18
+  - first:
+      213: 1566777972372826080
+    second: Grodd-removebg_19
+  - first:
+      213: 3559506556031081588
+    second: Grodd-removebg_20
+  - first:
+      213: 9140359424337746490
+    second: Grodd-removebg_21
+  - first:
+      213: 2054400517285614705
+    second: Grodd-removebg_22
+  - first:
+      213: 11492388619546791
+    second: Grodd-removebg_23
+  - first:
+      213: -5174225880841000289
+    second: Grodd-removebg_24
+  - first:
+      213: 8517902187430237110
+    second: Grodd-removebg_25
+  - first:
+      213: -1712851530835865477
+    second: Grodd-removebg_26
+  - first:
+      213: 4024462567374145858
+    second: Grodd-removebg_27
+  - first:
+      213: -2741596039251467060
+    second: Grodd-removebg_28
+  - first:
+      213: -4246301080256257581
+    second: Grodd-removebg_29
+  - first:
+      213: -8001134861198115621
+    second: Grodd-removebg_30
+  - first:
+      213: -891545840010531676
+    second: Grodd-removebg_31
+  - first:
+      213: 8897076148748463012
+    second: Grodd-removebg_32
+  - first:
+      213: -3447717644479199856
+    second: Grodd-removebg_33
+  - first:
+      213: -2088924910101205428
+    second: Grodd-removebg_34
+  - first:
+      213: 8975466603619777558
+    second: Grodd-removebg_35
+  - first:
+      213: -8217549635086577023
+    second: Grodd-removebg_36
+  - first:
+      213: -739146120391978962
+    second: Grodd-removebg_37
+  - first:
+      213: 7541615186780704792
+    second: Grodd-removebg_38
+  - first:
+      213: -223761256381331974
+    second: Grodd-removebg_39
+  - first:
+      213: 6715345047936571212
+    second: Grodd-removebg_40
+  - first:
+      213: -5062306945752208574
+    second: Grodd-removebg_41
+  - first:
+      213: -6406183478256866593
+    second: Grodd-removebg_42
+  - first:
+      213: -1351515000366693914
+    second: Grodd-removebg_43
+  - first:
+      213: 246755582787112538
+    second: Grodd-removebg_44
+  - first:
+      213: -8273061180925534267
+    second: Grodd-removebg_45
+  - first:
+      213: 6963835960556492729
+    second: Grodd-removebg_46
+  - first:
+      213: 5335063618539025839
+    second: Grodd-removebg_47
+  - first:
+      213: 2530558272553074420
+    second: Grodd-removebg_48
+  - first:
+      213: 7513800355147009280
+    second: Grodd-removebg_49
+  - first:
+      213: 5586833201218153469
+    second: Grodd-removebg_50
+  - first:
+      213: 7979333962018139158
+    second: Grodd-removebg_51
+  - first:
+      213: 8353435031745100824
+    second: Grodd-removebg_52
+  - first:
+      213: -9148319879602683952
+    second: Grodd-removebg_53
+  - first:
+      213: 130587503413629280
+    second: Grodd-removebg_54
+  - first:
+      213: -6237356552733280536
+    second: Grodd-removebg_55
+  - first:
+      213: 3221276351590947459
+    second: Grodd-removebg_56
+  - first:
+      213: 4385941536020948553
+    second: Grodd-removebg_57
+  - first:
+      213: 4859830386128687326
+    second: Grodd-removebg_58
+  - first:
+      213: -1270698702770663155
+    second: Grodd-removebg_59
+  - first:
+      213: 4876262543441321314
+    second: Grodd-removebg_60
+  - first:
+      213: -8881328129060065220
+    second: Grodd-removebg_61
+  - first:
+      213: 2963491293782278759
+    second: Grodd-removebg_62
+  - first:
+      213: -3682690880236053183
+    second: Grodd-removebg_63
+  - first:
+      213: -651484739387023453
+    second: Grodd-removebg_64
+  - first:
+      213: 5494842302255029184
+    second: Grodd-removebg_65
+  - first:
+      213: 8920510423734384924
+    second: Grodd-removebg_66
+  - first:
+      213: -5874972657797846273
+    second: Grodd-removebg_67
+  - first:
+      213: 7734209638308604409
+    second: Grodd-removebg_68
+  - first:
+      213: 3915438642027520832
+    second: Grodd-removebg_69
+  - first:
+      213: -5638441471840343334
+    second: Grodd-removebg_70
+  - first:
+      213: -7524718037187270219
+    second: Grodd-removebg_71
+  - first:
+      213: -7520329479992790539
+    second: Grodd-removebg_72
+  - first:
+      213: -8799122122749081747
+    second: Grodd-removebg_73
+  - first:
+      213: -2740598612573284651
+    second: Grodd-removebg_74
+  - first:
+      213: -4200610375065030517
+    second: Grodd-removebg_75
+  - first:
+      213: -4039112574101500323
+    second: Grodd-removebg_76
+  - first:
+      213: 7428030737420024506
+    second: Grodd-removebg_77
+  - first:
+      213: 4335210188834646918
+    second: Grodd-removebg_78
+  - first:
+      213: -4195165040982747581
+    second: Grodd-removebg_79
+  - first:
+      213: 8403510653747404886
+    second: Grodd-removebg_80
+  - first:
+      213: 3259324619926367675
+    second: Grodd-removebg_81
+  - first:
+      213: -420151942745816607
+    second: Grodd-removebg_82
+  - first:
+      213: -7671135422174338499
+    second: Grodd-removebg_83
+  - first:
+      213: -8053815482993547256
+    second: Grodd-removebg_84
+  - first:
+      213: -9009776261772531789
+    second: Grodd-removebg_85
+  - first:
+      213: 5757078461756782002
+    second: Grodd-removebg_86
+  - first:
+      213: -7684730122106222833
+    second: Grodd-removebg_87
+  - first:
+      213: -5769199089468121579
+    second: Grodd-removebg_88
+  - first:
+      213: 2877941944301869348
+    second: Grodd-removebg_89
+  - first:
+      213: 3000042249454742375
+    second: Grodd-removebg_90
+  - first:
+      213: -2778037138866204558
+    second: Grodd-removebg_91
+  - first:
+      213: -3976332169048514103
+    second: Grodd-removebg_92
+  - first:
+      213: -4325113123855540571
+    second: Grodd-removebg_93
+  - first:
+      213: -4860036888485670285
+    second: Grodd-removebg_94
+  - first:
+      213: 2335866854701944381
+    second: Grodd-removebg_95
+  - first:
+      213: 809617775069760783
+    second: Grodd-removebg_96
+  - first:
+      213: 1334008531658906178
+    second: Grodd-removebg_97
+  - first:
+      213: 9138779023647833752
+    second: Grodd-removebg_98
+  - first:
+      213: -5782093641526110303
+    second: Grodd-removebg_99
+  - first:
+      213: 2641066541713730048
+    second: Grodd-removebg_100
+  - first:
+      213: -6761809656320076756
+    second: Grodd-removebg_101
+  - first:
+      213: -6712639904941812245
+    second: Grodd-removebg_102
+  - first:
+      213: -3858722168763983618
+    second: Grodd-removebg_103
+  - first:
+      213: 2459436204410606121
+    second: Grodd-removebg_104
+  - first:
+      213: -7634796494449344076
+    second: Grodd-removebg_105
+  - first:
+      213: 1518844086416888916
+    second: Grodd-removebg_106
+  - first:
+      213: -6886709394760116795
+    second: Grodd-removebg_107
+  - first:
+      213: -7265602015829660809
+    second: Grodd-removebg_108
+  - first:
+      213: 2869575079394211639
+    second: Grodd-removebg_109
+  - first:
+      213: -8257474001216620218
+    second: Grodd-removebg_110
+  - first:
+      213: -8340516862551682369
+    second: Grodd-removebg_111
+  - first:
+      213: -4026324497954691481
+    second: Grodd-removebg_112
+  - first:
+      213: 3829555428281906878
+    second: Grodd-removebg_113
+  - first:
+      213: 5767791474416767013
+    second: Grodd-removebg_114
+  - first:
+      213: 5703109500740670145
+    second: Grodd-removebg_115
+  - first:
+      213: -4035949294184784705
+    second: Grodd-removebg_116
+  - first:
+      213: 5323226140729463415
+    second: Grodd-removebg_117
+  - first:
+      213: 5848632094941760315
+    second: Grodd-removebg_118
+  - first:
+      213: 6379959875951501940
+    second: Grodd-removebg_119
+  - first:
+      213: -3297416787659713446
+    second: Grodd-removebg_120
+  - first:
+      213: -6729653666390385235
+    second: Grodd-removebg_121
+  - first:
+      213: 6426291666864015515
+    second: Grodd-removebg_122
+  - first:
+      213: 7814130800313045685
+    second: Grodd-removebg_123
+  - first:
+      213: -2706524614537774106
+    second: Grodd-removebg_124
+  - first:
+      213: -8394569677007479337
+    second: Grodd-removebg_125
+  - first:
+      213: -5158819456714252009
+    second: Grodd-removebg_126
+  - first:
+      213: 492224776379926764
+    second: Grodd-removebg_127
+  - first:
+      213: 7345697308523926662
+    second: Grodd-removebg_128
+  - first:
+      213: 7959069143849228702
+    second: Grodd-removebg_129
+  - first:
+      213: 2350510221923638626
+    second: Grodd-removebg_130
+  - first:
+      213: 2401630273884677684
+    second: Grodd-removebg_131
+  - first:
+      213: -2205793940021761492
+    second: Grodd-removebg_132
+  - first:
+      213: 5596196849022047312
+    second: Grodd-removebg_133
+  - first:
+      213: -1214683251256135782
+    second: Grodd-removebg_134
+  - first:
+      213: -2861971746478300362
+    second: Grodd-removebg_135
+  - first:
+      213: 7015557893391525262
+    second: Grodd-removebg_136
+  - first:
+      213: -4613773011381401323
+    second: Grodd-removebg_137
+  - first:
+      213: -8280164965823528640
+    second: Grodd-removebg_138
+  - first:
+      213: -4001422061880909029
+    second: Grodd-removebg_139
+  - first:
+      213: -8245294579486194360
+    second: Grodd-removebg_140
+  - first:
+      213: -5649418742525247017
+    second: Grodd-removebg_141
+  - first:
+      213: -4305760203750321550
+    second: Grodd-removebg_142
+  - first:
+      213: -5463363552487877256
+    second: Grodd-removebg_143
+  - first:
+      213: 6576504826358882788
+    second: Grodd-removebg_144
+  - first:
+      213: 101900092335721459
+    second: Grodd-removebg_145
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grodd-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1327
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8073bfde65a27cfa2b02a329545c25
+      internalID: 7092630205431109308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1327
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd94f1123c3cf48883567bb1e877e3c
+      internalID: -8009534647134672881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1327
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f18467070a0331d8951da160a0902e
+      internalID: 6581510260207439185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1327
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408e84d6898b224fbfa4a2d756d7587
+      internalID: -1557574715096735519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1327
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adeb78d2982206cabab82136273b07f
+      internalID: -6391523365111286775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1327
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892ca10f1b22b872095b603515a0a1df
+      internalID: 8339641458424981535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1327
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869123bd51632d5aa89ba13ca3b6f7ee
+      internalID: 3458157004968815425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1330
+        width: 235
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6ddc5a6fe3b9196a31b578cce98629
+      internalID: 5679747793418935815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1245
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b108d950f8ecf11a8f056e44b66d289
+      internalID: -4740496946335372935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1245
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9931610f2aec27ff94b55197887eb26
+      internalID: -8944833934459023018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1245
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa83b1a645ad6faf99a7936c99852d75
+      internalID: -7495388174856333062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1245
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4efb4e816a7d8a9ace735a68e74e06
+      internalID: 8718371259714899150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1245
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4056b75ca879e6a957bd479c528873
+      internalID: -299729946735474523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1302
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cd89467a3bb86b987735917cfb38f6
+      internalID: 4663563729850017303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1245
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8b5dc7a806a6258addc4acd432c6d
+      internalID: -8716445013402630909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1245
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a899e7c2c35c11d696abcb1765186cd
+      internalID: 82195406724210677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1245
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9affc752e13e746da0d3c22f7a3c9eb
+      internalID: -6720671767681419091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1133
+        width: 127
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1fa69a0edbc306a627bf3deca7a06
+      internalID: -113617483650423597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1063
+        width: 272
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913160e8d57b063d1893465540739f80
+      internalID: 7277492980526283451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1157
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d379d6b000e5d06aa5790418312985d
+      internalID: 1566777972372826080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1157
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7c3b8ad17e9a767aa625834bc0e44a
+      internalID: 3559506556031081588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1157
+        width: 115
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b04f295078d4ab9b3c7e11d564815c
+      internalID: 9140359424337746490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1157
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3b487fea7772128b484fe05d109d90
+      internalID: 2054400517285614705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1157
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908001bd2ce8091cc8109eb6d427ffaa
+      internalID: 11492388619546791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1157
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5774f1f9311754be9587979b30eba6c
+      internalID: -5174225880841000289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1063
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1917b49c6c05689b81d5f3b6f556ca2
+      internalID: 8517902187430237110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1063
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76e5960fac8326b9aa674ba213f633b
+      internalID: -1712851530835865477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1063
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d493a1b1cf5d0ba8cd15021351bf42
+      internalID: 4024462567374145858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1063
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53a74fc6a305be0881d4545cfd3e9b
+      internalID: -2741596039251467060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1063
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9c21c94430bf6f38e8d5bda1f77ec7
+      internalID: -4246301080256257581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1063
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3460b67e88af78549a176f6d07af382
+      internalID: -8001134861198115621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1063
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afab5dd45755c872a7572f248a95faf
+      internalID: -891545840010531676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1064
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49443dafd63def8a79b117db707960be
+      internalID: 8897076148748463012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 979
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719919b83b65aa5d2b24230ec9f435f3
+      internalID: -3447717644479199856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 979
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0403d083c36e59fbea004cdc5a99e486
+      internalID: -2088924910101205428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 979
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb209934de84292eae3c04cb341398d
+      internalID: 8975466603619777558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1043
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a05e068da7abd6f80c6e8c46724988
+      internalID: -8217549635086577023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 979
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b87860cdd6babe7db3e6a08a4b5029a
+      internalID: -739146120391978962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 996
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b0e0a26fc59a185b8f1a6306f00fd9
+      internalID: 7541615186780704792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 985
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140edf7c4aa587c0e8d6725354fe1b82
+      internalID: -223761256381331974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1011
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf660082a250ecbb56040c1f17c276
+      internalID: 6715345047936571212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 985
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d290539de127b1bd298478297e207
+      internalID: -5062306945752208574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 985
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ae4b6bf14c14e0384889331ac5c703
+      internalID: -6406183478256866593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 985
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d2881210479e123a250a6d2458be40
+      internalID: -1351515000366693914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 985
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970db646989e84e09a19faadbeed6328
+      internalID: 246755582787112538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 985
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce34e8b8fc89a1fdbf6b2755f22ed36
+      internalID: -8273061180925534267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 985
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12655af2eff6274cb02a7b4cea6129d
+      internalID: 6963835960556492729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 984
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656b5388d519c98f2b33b726bd34fd0b
+      internalID: 5335063618539025839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 984
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094dd759b19a77984abfc2231e7a7a87
+      internalID: 2530558272553074420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 946
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13525030b3b6e0735a548a26efe75772
+      internalID: 7513800355147009280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 985
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bf37d0aae10694e8df7c9664cf9c5e
+      internalID: 5586833201218153469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 995
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4d4f772f1082e34b4a158643e40d2c
+      internalID: 7979333962018139158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 984
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21192531b152b0d6a885a9883c60b78c
+      internalID: 8353435031745100824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 985
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4c62f4dd3113b79be413122491c613
+      internalID: -9148319879602683952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 949
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83251848ae794bbebba6a011a601514
+      internalID: 130587503413629280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 949
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44449b0a5c2d5f05eba7925747e148cb
+      internalID: -6237356552733280536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 962
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6f576d53578e82c900c2613dbc7ca8
+      internalID: 3221276351590947459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 875
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fcd73fe1d475898a49b0ee963462a5
+      internalID: 4385941536020948553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 875
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be4a3747f4c7256fa6bf37da2a9a6fb
+      internalID: 4859830386128687326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 875
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a410ba2f7d6be173a72b4b5aad5b10b
+      internalID: -1270698702770663155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 875
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a54aa11bc4e003ca70e72344af2e85
+      internalID: 4876262543441321314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 875
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577aea0651407822e842600e012d97fa
+      internalID: -8881328129060065220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 875
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d59fab3614440a1b327b175c69f301
+      internalID: 2963491293782278759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 875
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234fa50630ee792eb83f5fa2e61c096c
+      internalID: -3682690880236053183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 875
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae64cd17429566c28889c89a6a7a759e
+      internalID: -651484739387023453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_65
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 875
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0774f2a786e9e946ba40d19a97ce32df
+      internalID: 5494842302255029184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_66
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 875
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60273dfa7c8acd64b3e5bc2f32871ec
+      internalID: 8920510423734384924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_67
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 875
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd76a8d8b37f3b484ced03a1ebaa24
+      internalID: -5874972657797846273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_68
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 907
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49c686f14fa7acf5b8ad9a325b90dd2
+      internalID: 7734209638308604409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_69
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 904
+        width: 98
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613ecddeb4480cc26af59cbf6814a625
+      internalID: 3915438642027520832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 764
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cd4a85d09ee60798cbbe1c303bd81c
+      internalID: -5638441471840343334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_71
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 763
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01743bfba67f298b58913042d63aab88
+      internalID: -7524718037187270219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 763
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef41da2c5621284bd87eebe80fb13e
+      internalID: -7520329479992790539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 770
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db90f9ef5fcdd8fd9577da79c564764
+      internalID: -8799122122749081747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_74
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 770
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8673b24fdf68d348c1c3cf72473891
+      internalID: -2740598612573284651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_75
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 770
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fb36980da9003888862cf9b5512ed9
+      internalID: -4200610375065030517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_76
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 743
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a88fe902554ebe85a8f6b205ad737f8
+      internalID: -4039112574101500323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_77
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 764
+        width: 91
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e466caafc98344681ad848331604e072
+      internalID: 7428030737420024506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_78
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 763
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc90ebd538e291c9ee2de0feaaa8b5
+      internalID: 4335210188834646918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_79
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 763
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42c51bae188c46c58c377f561834a15
+      internalID: -4195165040982747581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_80
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 763
+        width: 106
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a6a45809d806f8924f70198cab606
+      internalID: 8403510653747404886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_81
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 763
+        width: 87
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e43910aa713e1bc8ce66b5d0c04566
+      internalID: 3259324619926367675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_82
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 627
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5ec2df083ebd45b9361b834e4334ef
+      internalID: -420151942745816607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_83
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 627
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8bd469b4a79febafa98c5a045a8bb
+      internalID: -7671135422174338499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_84
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 627
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe7b830a10ab615bafa88044b98b49a
+      internalID: -8053815482993547256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_85
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 633
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac6d61fae96a0df7947af8f594490d0
+      internalID: -9009776261772531789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_86
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 633
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d994b979db720793886b10211757b655
+      internalID: 5757078461756782002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_87
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 643
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e901f81c888400a2b9d8afbb43f661b
+      internalID: -7684730122106222833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_88
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 629
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82584123cefc85a982c41c5b6e9e6ad
+      internalID: -5769199089468121579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_89
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 641
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b71d9b590f96b7bb1779184ea34af2
+      internalID: 2877941944301869348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_90
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 645
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b91b9d1fcfa24925bf146317a4791d1
+      internalID: 3000042249454742375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_91
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 639
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420ba88dd204a84eeb67427d13c9e410
+      internalID: -2778037138866204558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_92
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 627
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca708cc8035b5fa3691a49ec1230e4bb
+      internalID: -3976332169048514103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_93
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 519
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38687777861ecb0e8b67d4b8bfb31d04
+      internalID: -4325113123855540571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 519
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfee95b8e59e9ec8d86b1fc6b465635a
+      internalID: -4860036888485670285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_95
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 517
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f126c51e374cc3227a95a93c11bc904d
+      internalID: 2335866854701944381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_96
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 517
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5170746d2fe5c9217ae6ed30ecc75199
+      internalID: 809617775069760783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_97
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 518
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fb4877a941f17888bf64772ea07854
+      internalID: 1334008531658906178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_98
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 519
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b037ba710ae0f686e9027b8203fea155
+      internalID: 9138779023647833752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 393
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdf569113aef69029a8f4894459eaa1
+      internalID: -5782093641526110303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_100
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 386
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb701c2612285a559c23aeb07a89c0d
+      internalID: 2641066541713730048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_101
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 402
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded18af7c98cb74e2819d134bd90b1fd
+      internalID: -6761809656320076756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_102
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 401
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a02360e81b266ad7922a5576b8a8027
+      internalID: -6712639904941812245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_103
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 404
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770e79b86f4224063b8fca4c845b6d3f
+      internalID: -3858722168763983618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_104
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 402
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d176677c19e8266be879ea5164c14935
+      internalID: 2459436204410606121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_105
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 390
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7dea724c3ca158e802f64e9266ae71
+      internalID: -7634796494449344076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_106
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 388
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59098a6476f7ff516844b088040a49cc
+      internalID: 1518844086416888916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_107
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 392
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7daabec887f05020beaba2f506845b9
+      internalID: -6886709394760116795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_108
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 393
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5411e90896a55d72d8ea4a882b57ff7b
+      internalID: -7265602015829660809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_109
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 400
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e4b97c9b2401a40b95967ea82f77ba
+      internalID: 2869575079394211639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_110
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 403
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bc086b0f25d4e70942043d09f77b7c
+      internalID: -8257474001216620218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_111
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 331
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cefd77ffae11369a425a1b2b6829dc
+      internalID: -8340516862551682369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_112
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 320
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf4a543a1ae09a78a5411318deae86
+      internalID: -4026324497954691481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_113
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 347
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4683ca090d3c16dfa18b45426ae2fa7
+      internalID: 3829555428281906878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_114
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 320
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac51c675646db5bb2f98242b1a5cfa
+      internalID: 5767791474416767013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_115
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 320
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166774d60616a4488b14d598019a71b0
+      internalID: 5703109500740670145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_116
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 319
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6225bd5ad9032a87a9c019ecb2a9ff5
+      internalID: -4035949294184784705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_117
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 320
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4654baba214e4593eaf46665c5be814c
+      internalID: 5323226140729463415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_118
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 320
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed619653510138ba4b72affcc977bbcc
+      internalID: 5848632094941760315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_119
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 320
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3375911bdbaf9a20b9eb47c1edd246b0
+      internalID: 6379959875951501940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_120
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 319
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e434fb076f32e8d3ab4c1b48fe3019ea
+      internalID: -3297416787659713446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_121
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 319
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0408eb422b68368609d0bf26b14f3544
+      internalID: -6729653666390385235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_122
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 320
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150cf3492729d10eca6923a5d524a118
+      internalID: 6426291666864015515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_123
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 330
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672d4bee76bfc7ed9fd2892a9879da7
+      internalID: 7814130800313045685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_124
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 320
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be1d28f48b3bc267b87c8d5436c02ce
+      internalID: -2706524614537774106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_125
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 320
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d86c7dc6d44742975339762f28c39
+      internalID: -8394569677007479337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_126
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 193
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6d439a8ff87a8c9b8ddcb29337ea9f
+      internalID: -5158819456714252009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_127
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 193
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f135026fc6adc020484c7474e204afdc
+      internalID: 492224776379926764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_128
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 191
+        width: 103
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a46b935c82d0d5482a114285d65fb3
+      internalID: 7345697308523926662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_129
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 192
+        width: 143
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe990b7b2b6e48da7284d2130174db
+      internalID: 7959069143849228702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_130
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 192
+        width: 170
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f120ad2c9f3681378b1570f11fc044a9
+      internalID: 2350510221923638626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_131
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 193
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f2c988d129b2831be848d14fa2d17a
+      internalID: 2401630273884677684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_132
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 192
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487129ec13fcd4aaf892183914bf58dd
+      internalID: -2205793940021761492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_133
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 193
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249f5f38a4a950744b8045ddcafb9ff2
+      internalID: 5596196849022047312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_134
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 97
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc6ae3050176586395ca3517cc1cd7f
+      internalID: -1214683251256135782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_135
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 97
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8632107a4d0b40c7a90f5dfb309f8f8a
+      internalID: -2861971746478300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_136
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 96
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159c460a17079f529972df4ac1ad802
+      internalID: 7015557893391525262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_137
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 97
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6b024d6c1345aebdf38975f08d443
+      internalID: -4613773011381401323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_138
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 96
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe883d274f552090bc2f26f8a05d3ea
+      internalID: -8280164965823528640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_139
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 96
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc4b97430cfefdf0a50b327f53a7c63
+      internalID: -4001422061880909029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_140
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9497aba80b73b1ab9c7f0b0efbf9d00
+      internalID: -8245294579486194360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_141
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234bd4798e6fc1da4bca78dd13abe421
+      internalID: -5649418742525247017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_142
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 8
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e607858eb3079b2a49c8db2404925452
+      internalID: -4305760203750321550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_143
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 8
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686f5be03c764e7678a9799cc55a495c
+      internalID: -5463363552487877256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_144
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 9
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa74346493daa024a238955e83c6453
+      internalID: 6576504826358882788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grodd-removebg_145
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 8
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2062f92570248b9e7db011b594e31
+      internalID: 101900092335721459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

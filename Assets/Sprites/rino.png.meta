@@ -1,0 +1,1954 @@
+fileFormatVersion: 2
+guid: 538068fc4aa9bb529ad36cd829eb0348
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7436240511851512137
+    second: rino_0
+  - first:
+      213: 4655037759680785102
+    second: rino_1
+  - first:
+      213: -4978372491938507286
+    second: rino_2
+  - first:
+      213: 7572023977275407668
+    second: rino_3
+  - first:
+      213: 1623771083200848939
+    second: rino_4
+  - first:
+      213: 1503875303044102897
+    second: rino_5
+  - first:
+      213: 3286787622470591140
+    second: rino_6
+  - first:
+      213: -2277588341525520165
+    second: rino_7
+  - first:
+      213: 3567823793176617856
+    second: rino_8
+  - first:
+      213: 4873027587342632185
+    second: rino_9
+  - first:
+      213: -2201065555973643694
+    second: rino_10
+  - first:
+      213: 5676461152864516177
+    second: rino_11
+  - first:
+      213: 342594601504861305
+    second: rino_12
+  - first:
+      213: -5382857449905726663
+    second: rino_13
+  - first:
+      213: 1605416826235609162
+    second: rino_14
+  - first:
+      213: 8492873730288180625
+    second: rino_15
+  - first:
+      213: -6752825529383674631
+    second: rino_16
+  - first:
+      213: 5440979227263307397
+    second: rino_17
+  - first:
+      213: -4807427913430279289
+    second: rino_18
+  - first:
+      213: 2421867099417987931
+    second: rino_19
+  - first:
+      213: -6518742919350155019
+    second: rino_20
+  - first:
+      213: -2455209950403561176
+    second: rino_21
+  - first:
+      213: -2964771680122734215
+    second: rino_22
+  - first:
+      213: -5662637017071466601
+    second: rino_23
+  - first:
+      213: 5166819352179569889
+    second: rino_24
+  - first:
+      213: -8982836163634682602
+    second: rino_25
+  - first:
+      213: -8393567513694523244
+    second: rino_26
+  - first:
+      213: 5698841218815991612
+    second: rino_27
+  - first:
+      213: 2152243678740780339
+    second: rino_28
+  - first:
+      213: 7598684268411433377
+    second: rino_29
+  - first:
+      213: 7222697416926820807
+    second: rino_30
+  - first:
+      213: -1537722672545690232
+    second: rino_31
+  - first:
+      213: 3664329896380299084
+    second: rino_32
+  - first:
+      213: -5597201465609894059
+    second: rino_33
+  - first:
+      213: -2148494177629912718
+    second: rino_34
+  - first:
+      213: -2233989572784085540
+    second: rino_35
+  - first:
+      213: 5537138066834165477
+    second: rino_36
+  - first:
+      213: -2769747373023932778
+    second: rino_37
+  - first:
+      213: -6803350974938958128
+    second: rino_38
+  - first:
+      213: -3068457693283606689
+    second: rino_39
+  - first:
+      213: 4982424553661330454
+    second: rino_40
+  - first:
+      213: 1459175475665895237
+    second: rino_41
+  - first:
+      213: 7062888705770430718
+    second: rino_42
+  - first:
+      213: -2597621890154427278
+    second: rino_43
+  - first:
+      213: -6417894281677172954
+    second: rino_44
+  - first:
+      213: -3061796147856401080
+    second: rino_45
+  - first:
+      213: 3154764002898249813
+    second: rino_46
+  - first:
+      213: -4067694643943531465
+    second: rino_47
+  - first:
+      213: 4683967441444302743
+    second: rino_48
+  - first:
+      213: -5496193309789936560
+    second: rino_49
+  - first:
+      213: -1293653174044297562
+    second: rino_50
+  - first:
+      213: 4305089272998195693
+    second: rino_51
+  - first:
+      213: 8342685137527275036
+    second: rino_52
+  - first:
+      213: -8984210040718910893
+    second: rino_53
+  - first:
+      213: 7010866409590884075
+    second: rino_54
+  - first:
+      213: -8092708859422941403
+    second: rino_55
+  - first:
+      213: 9104350077585953034
+    second: rino_56
+  - first:
+      213: 3219049151867895730
+    second: rino_57
+  - first:
+      213: -8058531002074397450
+    second: rino_58
+  - first:
+      213: 7369642352328116588
+    second: rino_59
+  - first:
+      213: -4012654562084691893
+    second: rino_60
+  - first:
+      213: 4776906585064213465
+    second: rino_61
+  - first:
+      213: 5117982700484837011
+    second: rino_62
+  - first:
+      213: 4123583948687740221
+    second: rino_63
+  - first:
+      213: -6593716710614862380
+    second: rino_64
+  - first:
+      213: -5005720672384880059
+    second: rino_65
+  - first:
+      213: 9003081472701963128
+    second: rino_66
+  - first:
+      213: -2853879525750400261
+    second: rino_67
+  - first:
+      213: -62580200007692424
+    second: rino_68
+  - first:
+      213: 4688510570040580848
+    second: rino_69
+  - first:
+      213: -6273411458826969377
+    second: rino_70
+  - first:
+      213: -2680337297013819199
+    second: rino_71
+  - first:
+      213: -7678473389304429428
+    second: rino_72
+  - first:
+      213: 6327935820897630523
+    second: rino_73
+  - first:
+      213: -5091408522989526360
+    second: rino_74
+  - first:
+      213: -2551346647645818879
+    second: rino_75
+  - first:
+      213: 7402656144734544900
+    second: rino_76
+  - first:
+      213: 2444953716717884388
+    second: rino_77
+  - first:
+      213: 8531957767977797544
+    second: rino_78
+  - first:
+      213: 852834034523138592
+    second: rino_79
+  - first:
+      213: 7744033683522471912
+    second: rino_80
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rino_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 944
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d99972cf2db8b13ab63647cc5b0d39
+      internalID: -7436240511851512137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 943
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1e48763e371d3482704255d3d8244
+      internalID: 4655037759680785102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 943
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df19c4c1c93f8c4930679945dd2cb9
+      internalID: -4978372491938507286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_3
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 941
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bf978583f9e3c08855f752e440ad8a
+      internalID: 7572023977275407668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_4
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 937
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141feef3bde61d7ccb2bfd81ddd3f506
+      internalID: 1623771083200848939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_5
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 938
+        width: 103
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ca3782d08b89460bea5318e1add181
+      internalID: 1503875303044102897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_6
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 946
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa518bda5c8814c0393e92022600216d
+      internalID: 3286787622470591140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_7
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 950
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2626a6bba62dd6bbfad8134dbd696629
+      internalID: -2277588341525520165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_8
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 952
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f87fa713cfcdfa0944cd7fe74caa15
+      internalID: 3567823793176617856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_9
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 947
+        width: 113
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72f7e792c9a29fd4aa8b7ac1ee25fdc
+      internalID: 4873027587342632185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_13
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 834
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e279c9e7687f116852a44a1aec8f9f
+      internalID: -5382857449905726663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_14
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 770
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193593cde1af05177a783c4885cd17bb
+      internalID: 1605416826235609162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 769
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b2cda0da24bb5eb062d3c087f476f
+      internalID: 8492873730288180625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 772
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765d5ae49c49db4b0b5ca34e086e3a5b
+      internalID: -6752825529383674631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 767
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb31dc5d21ece8d869b8dafb50de0951
+      internalID: 5440979227263307397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_18
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 768
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec5d78a9a9e8735ba92a5080a400321
+      internalID: -4807427913430279289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_19
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 768
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00098e0551e0944c686790593857e870
+      internalID: 2421867099417987931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_20
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 768
+        width: 103
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed82f31f20174f9788f4214dcfb2753
+      internalID: -6518742919350155019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_21
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 767
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b862b611090510b72b837b1277a3d
+      internalID: -2455209950403561176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_22
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 752
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2190f423152ca971bd3633562aa9ebb
+      internalID: -2964771680122734215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_23
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 770
+        width: 73
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5003b187f3ca309835791e7cd69d71
+      internalID: -5662637017071466601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 595
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ff5c850e4a6eea954c35bfa1b7596
+      internalID: 5166819352179569889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_25
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 595
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e3ca180b9566ab8a0221f9870c252
+      internalID: -8982836163634682602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_26
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 595
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d9bc029affcfaafacc96b44ca9c3e0
+      internalID: -8393567513694523244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_27
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 666
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee306277b68c2f398f332a33b86320d
+      internalID: 5698841218815991612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 594
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6751c85af834a5998e09a4e74a02df
+      internalID: 7598684268411433377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_31
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 595
+        width: 104
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40459e51f5c3db27bdb7bc72c112e90
+      internalID: -1537722672545690232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_32
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 587
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b18dfc8918c847af43598ec336209
+      internalID: 3664329896380299084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_33
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 633
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbabe0651ad7e8699a8edb7fae77cad
+      internalID: -5597201465609894059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 594
+        width: 115
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9429e47e7cbcf21b9b31c2e35902fffd
+      internalID: -2148494177629912718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_35
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 594
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd30bc4b56be03889ec3edd9b6ae3bf
+      internalID: -2233989572784085540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_36
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 587
+        width: 103
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d31ca63237c6e0c8b246b3099723bd0
+      internalID: 5537138066834165477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_37
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 592
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7797db51641efda4a428ec1f8743f88
+      internalID: -2769747373023932778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 464
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d587f6a11187235b8deef6875233d7
+      internalID: -6803350974938958128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 469
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43aa00d19888022593de3b3f6922cfd
+      internalID: -3068457693283606689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_40
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 472
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d75a5cfe9d7c3d904211f186855f3
+      internalID: 4982424553661330454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_41
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 476
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeff2bda41157b019ea0086e1c42fbf
+      internalID: 1459175475665895237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_42
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 472
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1c8f51aaa0dcfc83edc1979fd638f
+      internalID: 7062888705770430718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_43
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 418
+        width: 117
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d017f77c1ee438ebebf08a04b5aac2e0
+      internalID: -2597621890154427278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_44
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 418
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8547e23171f7b696a9c2669307d77df
+      internalID: -6417894281677172954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_45
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 460
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23614b5fc8d41acd7828c0c5a49808f1
+      internalID: -3061796147856401080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_46
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 463
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0900da45f0ebcc91955fe4afd25e3fb
+      internalID: 3154764002898249813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_47
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 467
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44ac657f5e2366bf94acf865fba9152
+      internalID: -4067694643943531465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_48
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 418
+        width: 114
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd374534ecf9fa98bb6ca71b7c220ff
+      internalID: 4683967441444302743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 418
+        width: 114
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f87a3f7035ce6a98b1f62dbc490ec3
+      internalID: -5496193309789936560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_50
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 418
+        width: 114
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc992f3f9d892473baa7f5d97c3e125a
+      internalID: -1293653174044297562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_51
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 418
+        width: 117
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a0a72cfa6cdd1ed947737872082ad2
+      internalID: 4305089272998195693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_52
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 418
+        width: 104
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bee99f3a5fbe703494b3dc011ea9453
+      internalID: 8342685137527275036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_53
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 418
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a6555c1b9941003bef6f19ab3f7b9e
+      internalID: -8984210040718910893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_54
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 418
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0fdd783e820a3228945850b6049f35
+      internalID: 7010866409590884075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_55
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 401
+        width: 118
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9229cb3632fc091c876ce632a38f8fa
+      internalID: -8092708859422941403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_56
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 243
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09802ddddd43c3aeaa8246f75593052
+      internalID: 9104350077585953034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_57
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 316
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1812bcf5ff06a5459ae357a58a73ce9
+      internalID: 3219049151867895730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_58
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 329
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bddd2ff8bb17786baea4fb808b8da3
+      internalID: -8058531002074397450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_59
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 243
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3555c62aaf326c2a8b7194c823867b3
+      internalID: 7369642352328116588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 293
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd46173afbb4ba0d8ad0b5409e705ac
+      internalID: -4012654562084691893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_61
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 296
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aabdaf46c3b960e4bb7cc323a5212a6
+      internalID: 4776906585064213465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_62
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 243
+        width: 104
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feafb7845a78125eea15075ae547f16c
+      internalID: 5117982700484837011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_63
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 295
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f244215edbf1d8bb863d0f90bc1d82a
+      internalID: 4123583948687740221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9fdc1df37e5f6e48c2ab01f3ad81ad
+      internalID: -6593716710614862380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_65
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 226
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a5a46a7c702d269fab3cec495ee0f
+      internalID: -5005720672384880059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_66
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 243
+        width: 114
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f2c19b9b751f79e8f1586ab2613242
+      internalID: 9003081472701963128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_67
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 242
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab3d1c7907ec41618dfbbfe35c3513d
+      internalID: -2853879525750400261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_68
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 241
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdb04648ae62304a96c750776b9ada0
+      internalID: -62580200007692424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_69
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 240
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779b73947d9d3aa9f8fbe045a4711da8
+      internalID: 4688510570040580848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_70
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 237
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf9de7b08f03af586d7ebd4f1ee89d
+      internalID: -6273411458826969377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 58
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8633d3864ce60b51981c600fcbf192e5
+      internalID: -2680337297013819199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_72
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 54
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ce0fd9025e5942acd69f8316e4599
+      internalID: -7678473389304429428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_73
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 51
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8128f03683fd8b899d57c2bca15d9c8
+      internalID: 6327935820897630523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_74
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 61
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c89d72381d699395bec117b698b77
+      internalID: -5091408522989526360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_75
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 63
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc5bccd46f8ed3e8abae95a62945ae
+      internalID: -2551346647645818879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_76
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 66
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282a8d88a4778f2f19f98cef0658140b
+      internalID: 7402656144734544900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_77
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 68
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85de0cdfd8793bccd99a9367f384feac
+      internalID: 2444953716717884388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_78
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 69
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716dfb0327020e062bc1a2bd8d9143b6
+      internalID: 8531957767977797544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_79
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 70
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c575f5abb23774cb8d673f4c6746048
+      internalID: 852834034523138592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rino_80
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 67
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661435a8d785cc7fab823630d1238e5b
+      internalID: 7744033683522471912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

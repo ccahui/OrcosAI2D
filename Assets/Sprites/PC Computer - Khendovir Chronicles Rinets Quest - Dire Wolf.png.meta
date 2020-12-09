@@ -1,0 +1,1435 @@
+fileFormatVersion: 2
+guid: eeea9819959d1574bbed86789a9a15c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8690233514378119292
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_0
+  - first:
+      213: -357849171335256938
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_1
+  - first:
+      213: -6658272514308690104
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_2
+  - first:
+      213: 862870801054635628
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_3
+  - first:
+      213: -1144505623447337738
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_4
+  - first:
+      213: -1182572913679185865
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_5
+  - first:
+      213: 7524616347332640496
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_6
+  - first:
+      213: -823769397705626374
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_7
+  - first:
+      213: -5798228060738934471
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_8
+  - first:
+      213: 1419946686337402220
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_9
+  - first:
+      213: 3023842360810757603
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_10
+  - first:
+      213: -5347957334760175973
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_11
+  - first:
+      213: 5127307466642018725
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_12
+  - first:
+      213: 9168758527083662203
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_13
+  - first:
+      213: -302367022369556307
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_14
+  - first:
+      213: -4111215035959696084
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_15
+  - first:
+      213: -8186740632001038400
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_16
+  - first:
+      213: -7415164823168866547
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_17
+  - first:
+      213: 9029932800958997111
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_18
+  - first:
+      213: -4395689992046221859
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_19
+  - first:
+      213: -4188716941862437053
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_20
+  - first:
+      213: 996561465128465800
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_21
+  - first:
+      213: -891074496406953310
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_22
+  - first:
+      213: -6008844649650863361
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_23
+  - first:
+      213: -9126810185631654875
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_24
+  - first:
+      213: 6070640558403401136
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_25
+  - first:
+      213: 4860977401203623459
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_26
+  - first:
+      213: -7213549115801163443
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_27
+  - first:
+      213: 7273890612122295010
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_28
+  - first:
+      213: -6909206150632341350
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_29
+  - first:
+      213: 4446923739441684962
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_30
+  - first:
+      213: -286628906220937608
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_31
+  - first:
+      213: 7411475047645461103
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_32
+  - first:
+      213: 7624774129164775185
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_33
+  - first:
+      213: -36852563458444409
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_34
+  - first:
+      213: -8847133508870565526
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_35
+  - first:
+      213: 6812386864600694936
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_36
+  - first:
+      213: 2035200077526415276
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_37
+  - first:
+      213: -520951442437120846
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_38
+  - first:
+      213: 6235826670766229412
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_39
+  - first:
+      213: -8043877326112240970
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_40
+  - first:
+      213: -8778182925821897713
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_41
+  - first:
+      213: -4623744679970289160
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_42
+  - first:
+      213: -3639917452324951625
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_43
+  - first:
+      213: 4843000081308182808
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_44
+  - first:
+      213: 2201035951413034378
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_45
+  - first:
+      213: -4290989985384780998
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_46
+  - first:
+      213: 1430845955138018365
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_47
+  - first:
+      213: 4821670504856104286
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_48
+  - first:
+      213: -6378806459908197958
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_49
+  - first:
+      213: 4382826463862919862
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_50
+  - first:
+      213: 3068188235454727451
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_51
+  - first:
+      213: -4789968823758962234
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_52
+  - first:
+      213: -3273372893954935751
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_53
+  - first:
+      213: 2019514676427669988
+    second: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_54
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 868
+        width: 169
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a496d532b863361c98f6486c68c7f9c
+      internalID: -8690233514378119292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 868
+        width: 159
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246150848019ef5c3b3132a93bc10ede
+      internalID: -357849171335256938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 868
+        width: 165
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40b73d8436007cb280284e3cf6a0a3d
+      internalID: -6658272514308690104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 873
+        width: 207
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21e523edda185fd4897f60a3bcbe267
+      internalID: 862870801054635628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 876
+        width: 206
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e72ecab29c4f55a4a6a32e77364bed7
+      internalID: -1144505623447337738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 880
+        width: 207
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fb1d6bdfe45b9e9a5c6ca88b0fb3da
+      internalID: -1182572913679185865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 868
+        width: 184
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1883a269f1e4ba5de8638f969b5b43b1
+      internalID: 7524616347332640496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 868
+        width: 184
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e686d1cd44e194355aa19abf4d1ee854
+      internalID: -823769397705626374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_8
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 868
+        width: 184
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fa7e2753427496a816e8ade8bbc38e
+      internalID: -5798228060738934471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 696
+        width: 170
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0ce7a9e0fad7f9ab57fe52fb7a135
+      internalID: 1419946686337402220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 696
+        width: 170
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e844493897934beb051f0597474b0d
+      internalID: 3023842360810757603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 696
+        width: 170
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6602306f8e98bf16af4015c1ccf476b
+      internalID: -5347957334760175973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 705
+        width: 211
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35b5864387121d98b6183ada8b6bbbc
+      internalID: 5127307466642018725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 711
+        width: 180
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab3cf0a13e8f5da4b2cac7bcf80d37a
+      internalID: 9168758527083662203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 706
+        width: 184
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2961d56ee622227bc998c165b8119291
+      internalID: -302367022369556307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_15
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 696
+        width: 169
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd7ec71f7c1951b1a53db304d9d9425
+      internalID: -4111215035959696084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_16
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 696
+        width: 170
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d5e0630d50dcf45b72135ae7dcaa9b
+      internalID: -8186740632001038400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_17
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 696
+        width: 169
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc53c0df83c48cadb92dee6f50030c91
+      internalID: -7415164823168866547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 524
+        width: 170
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4cef58fa1ffcd1782853d9c39cd658
+      internalID: 9029932800958997111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 524
+        width: 170
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6e5c6ff2335e49e8ab5f5a523aa3e4
+      internalID: -4395689992046221859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 524
+        width: 170
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5730179bd211da258cf8f224305049b
+      internalID: -4188716941862437053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_21
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 534
+        width: 207
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e923cffa07aa91d028162e8ea1d48935
+      internalID: 996561465128465800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_22
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 537
+        width: 206
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53deebd18de843ddd8803262e816247b
+      internalID: -891074496406953310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_23
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 540
+        width: 206
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615ef7d5f22e4442a83ef1a16dfb5feb
+      internalID: -6008844649650863361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_24
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 524
+        width: 169
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa00c1e76665f1da1d4baf2aacca9e
+      internalID: -9126810185631654875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_25
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 524
+        width: 170
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2777e0fada9e2c5b851f400ab6393f8
+      internalID: 6070640558403401136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_26
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 524
+        width: 169
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7ca44174cc7c68b565e418bd0f225
+      internalID: 4860977401203623459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 352
+        width: 170
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756875570cb928ffdafe370c6987b1ae
+      internalID: -7213549115801163443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 352
+        width: 170
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe37b3219df008cbbf63579f4a6db6a
+      internalID: 7273890612122295010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 352
+        width: 170
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2e56c329c7643f6b9f66ff70b14c2b
+      internalID: -6909206150632341350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_30
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 350
+        width: 183
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d45a1add717c16a99f4a9aa03da2b3
+      internalID: 4446923739441684962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_31
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 360
+        width: 186
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08e860b2287849e8b02aa7644d157a0
+      internalID: -286628906220937608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_32
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 369
+        width: 185
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784baadf87a4987519b04116a05a923c
+      internalID: 7411475047645461103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_33
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 352
+        width: 152
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3f8b67e268467cb1a7c7bbf348493
+      internalID: 7624774129164775185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_34
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 508
+        width: 154
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af2e2b217f244e1485a60494eb7a2fe
+      internalID: -36852563458444409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_35
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 350
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc25325bdbcd32a88b66cab22bdc5e79
+      internalID: -8847133508870565526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 180
+        width: 128
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba04ff83d35bdaca6b99a74e6105b4d5
+      internalID: 6812386864600694936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_37
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 180
+        width: 140
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09b37f9283f6be5b80673e6b364bf96
+      internalID: 2035200077526415276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_38
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 180
+        width: 135
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9224b68dde1828bb2f36752fcaa14e
+      internalID: -520951442437120846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_39
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 180
+        width: 153
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d1c6e993cce03198210bb51785cfa6
+      internalID: 6235826670766229412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_40
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 180
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c684979dbc81f5bfd17a2ad536c2a
+      internalID: -8043877326112240970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_41
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 180
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca293c00627f73492aa1b103ed190e3a
+      internalID: -8778182925821897713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_42
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 175
+        width: 206
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf12aafb8ef7f04918bab2c7bbba2ebd
+      internalID: -4623744679970289160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_43
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 175
+        width: 207
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d9a5389d16badca2d0ebf85101953
+      internalID: -3639917452324951625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_44
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 175
+        width: 206
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d04ee4d8384d429824e59dbf308746
+      internalID: 4843000081308182808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_45
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 152
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce2a9a08fc02da81ab55b1a7f3f6750
+      internalID: 2201035951413034378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 8
+        width: 155
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9514ede2b3ee4c18a1f8fcc41a4dd7
+      internalID: -4290989985384780998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_47
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 8
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8ef89a9b18d0c1bafc5ebaad5c3e37
+      internalID: 1430845955138018365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_48
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 8
+        width: 169
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38df5a48edd85d98fc490545d143d3
+      internalID: 4821670504856104286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_49
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 8
+        width: 169
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e22e947b0bac5fceadd2493f29b104a
+      internalID: -6378806459908197958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_50
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 8
+        width: 170
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f761d0126a5e32b0184e1a42bf9e0cd8
+      internalID: 4382826463862919862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_51
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 5
+        width: 193
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8a734c72b6d20df88138bf5f9b6817
+      internalID: 3068188235454727451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_52
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 5
+        width: 193
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2efe880a48d143bd8fe3e055fdbee41
+      internalID: -4789968823758962234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_53
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 5
+        width: 194
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64eeb6e7040d6dea644099ee14468f
+      internalID: -3273372893954935751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Dire Wolf_54
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 390
+        width: 192
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29086248a6a69203fb7c425f86459243
+      internalID: 2019514676427669988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
