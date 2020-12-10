@@ -31,6 +31,7 @@ public class EnemyBehavior : MonoBehaviour
         SelectTarget();
         intTimer = timer; //Store the inital value of timer
         anim = GetComponent<Animator>();
+        distance = float.MaxValue;
     }
 
     void Update()
@@ -72,12 +73,19 @@ public class EnemyBehavior : MonoBehaviour
     {
         if (trig.gameObject.tag == "Player")
         {
-            target = trig.transform;
-            inRange = true;
-            Flip();
+            // ataca al enemigo mas cercano que encuentre
+           // float distanceNueva = Vector2.Distance(transform.position, trig.transform.position);
+           // if (distanceNueva < distance)
+            {
+                target = trig.transform;
+                inRange = true;
+                Flip();
+            }
+           
          //   Debug.Log("Detecte un enemigo");
         }
     }
+
 
     void EnemyLogic()
     {
@@ -177,6 +185,7 @@ public class EnemyBehavior : MonoBehaviour
         if (player.GetVida() <= 0)
         {
             target.gameObject.SetActive(false);
+            SelectTarget(); 
         }
     }
 
@@ -194,10 +203,12 @@ public class EnemyBehavior : MonoBehaviour
         if (distanceToLeft > distanceToRight)
         {
             target = leftLimit;
+         //   distance = distanceToLeft;
         }
         else
         {
             target = rightLimit;
+          //  distance = distanceToRight;
         }
 
         //Ternary Operator

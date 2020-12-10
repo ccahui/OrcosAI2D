@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class PlayerBehavior : MonoBehaviour
 {
-    public float VIDA_FINAL = 600;
-    public int vida;
+    private float VIDA_FINAL = 200;
+    private int vida;
 
     HealthBar healthBar;
     void Awake()
