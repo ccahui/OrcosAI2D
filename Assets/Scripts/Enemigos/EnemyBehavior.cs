@@ -26,12 +26,46 @@ public class EnemyBehavior : MonoBehaviour
     private float intTimer;
     #endregion
 
+
+    private float VIDA_FINAL = 200;
+    private int vida;
+    HealthBar healthBar;
+
     void Awake()
     {
         SelectTarget();
         intTimer = timer; //Store the inital value of timer
         anim = GetComponent<Animator>();
         distance = float.MaxValue;
+
+        GameObject gameObject = transform.Find("HealthBarEnemy").gameObject;
+        healthBar = gameObject.GetComponent<HealthBar>();
+    }
+
+    void Start()
+    {
+        healthBar.SetSize(1);
+        vida = (int)VIDA_FINAL;
+    }
+
+    public void enemeyAttack(int daño)
+    {
+
+        vida = vida - daño;
+        if (vida <= 0)
+        {
+            healthBar.SetSize(0);
+            vida = 0;
+        }
+        else
+        {
+            float size = (vida * 1f) / VIDA_FINAL;
+            healthBar.SetSize(size);
+        }
+    }
+    public int GetVida()
+    {
+        return vida;
     }
 
     void Update()
@@ -227,7 +261,7 @@ public class EnemyBehavior : MonoBehaviour
         }
         else
         {
-            Debug.Log("Twist");
+   //         Debug.Log("Twist");
             rotation.y = 0;
         }
     
