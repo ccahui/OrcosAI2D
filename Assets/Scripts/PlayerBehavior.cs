@@ -13,6 +13,8 @@ public class PlayerBehavior : MonoBehaviour
     public float timer; //Timer for cooldown between attacks
     #endregion
 
+    public GameManager gameManager;
+
     #region Private Variables
     private RaycastHit2D hit;
     private Transform target;
@@ -39,6 +41,8 @@ public class PlayerBehavior : MonoBehaviour
         intTimer = timer; //Store the inital value of timer
         anim = GetComponent<Animator>();
         distance = float.MaxValue;
+        gameManager = GameManager.Instance;
+       
 
     }
     // Start is called before the first frame update
@@ -182,6 +186,7 @@ public class PlayerBehavior : MonoBehaviour
         if (enemy.GetVida() <= 0)
         {
             target.gameObject.SetActive(false);
+            gameManager.aumentarRecurso();
         }
     }
 
