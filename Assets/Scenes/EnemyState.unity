@@ -326,7 +326,7 @@ PrefabInstance:
     - target: {fileID: 2055013133780580246, guid: 3349d717fb1d26628be40a617545b4c4,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2055013133780580247, guid: 3349d717fb1d26628be40a617545b4c4,
         type: 3}
@@ -408,7 +408,7 @@ MonoBehaviour:
   rayCastLength: 50
   attackDistance: 20
   moveSpeed: 10
-  timer: 1.5
+  timer: 3
   leftLimit: {fileID: 103644616}
   rightLimit: {fileID: 795852752}
   VIDA_FINAL: 300
@@ -1271,7 +1271,7 @@ PrefabInstance:
     - target: {fileID: 2055013133780580246, guid: 3349d717fb1d26628be40a617545b4c4,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2055013133780580247, guid: 3349d717fb1d26628be40a617545b4c4,
         type: 3}
@@ -1824,7 +1824,7 @@ MonoBehaviour:
   rayCastLength: 50
   attackDistance: 20
   moveSpeed: 10
-  timer: 1.5
+  timer: 3
   leftLimit: {fileID: 103644616}
   rightLimit: {fileID: 795852752}
   VIDA_FINAL: 300
@@ -2192,7 +2192,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 945ae4e920f0acbaab2853b3f3458e38, type: 2}
+      objectReference: {fileID: 9100000, guid: 572cf3b187f2745918d18cad2119f856, type: 2}
     - target: {fileID: 2055013133780580246, guid: 3349d717fb1d26628be40a617545b4c4,
         type: 3}
       propertyPath: m_Name
@@ -2216,7 +2216,7 @@ PrefabInstance:
     - target: {fileID: 2055013133780580247, guid: 3349d717fb1d26628be40a617545b4c4,
         type: 3}
       propertyPath: m_FlipX
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2055013133780580247, guid: 3349d717fb1d26628be40a617545b4c4,
         type: 3}

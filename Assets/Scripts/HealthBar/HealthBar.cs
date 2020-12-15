@@ -10,7 +10,7 @@ public class HealthBar : MonoBehaviour
 
     void LateUpdate()
     {
-        transform.rotation = rotation;
+       // transform.rotation = rotation;
     }
     private void Awake()
     {
