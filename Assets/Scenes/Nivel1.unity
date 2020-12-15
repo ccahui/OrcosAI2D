@@ -2872,7 +2872,7 @@ MonoBehaviour:
   raycastMask:
     serializedVersion: 2
     m_Bits: 2048
-  rayCastLength: 50
+  rayCastLength: 500
   attackDistance: 20
   moveSpeed: 10
   timer: 2

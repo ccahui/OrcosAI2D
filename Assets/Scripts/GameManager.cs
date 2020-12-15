@@ -27,7 +27,8 @@ public class GameManager : MonoBehaviour
     public void aumentarRecurso()
     {
         recurso++;
-    }
+        Debug.Log("Mato un enemigo +1 oro");
+}
     public void gameOver()
     {
         foreach (PlayerBehavior aliado in aliados)
@@ -37,7 +38,7 @@ public class GameManager : MonoBehaviour
                 return;
             }
         }
-        Debug.Log("Game Over");
+        Debug.Log("GAME OVER: Dispone de +" + recurso + " oro");
     }
     public void pasasteDeNivel()
     {
@@ -48,7 +49,7 @@ public class GameManager : MonoBehaviour
                 return;
             }
         }
-        Debug.Log("Pasate de Nivel");
+        Debug.Log("IR A SIGUIENTE NIVEL: Dispone de +" + recurso + " oro");
     }
 
 }

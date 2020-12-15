@@ -75,6 +75,7 @@ public class PlayerBehavior : MonoBehaviour
             anim.SetBool("moving", false);
             StopAttack();
         }
+        
 
     }
 
@@ -85,8 +86,9 @@ public class PlayerBehavior : MonoBehaviour
 
         if (distance > attackDistance)
         {
-            Move();
             StopAttack();
+            Move();
+
         }
         else if (attackDistance >= distance && cooling == false)
         {
@@ -106,8 +108,7 @@ public class PlayerBehavior : MonoBehaviour
 
         if (!anim.GetCurrentAnimatorStateInfo(0).IsName("golpear"))
         {
-            Vector2 targetPosition = new Vector2(target.transform.position.x, transform.position.y);
-
+            Vector2 targetPosition = new Vector2(target.position.x, transform.position.y);
             transform.position = Vector2.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
         }
     }
@@ -167,7 +168,7 @@ public class PlayerBehavior : MonoBehaviour
         {
             target = trig.transform;
             inRange = true;
-           // quitarVida();
+           
         }
     }
 
@@ -184,7 +185,7 @@ public class PlayerBehavior : MonoBehaviour
 
     void verificarVida(EnemyBehavior enemy)
     {
-        if (enemy.GetVida() <= 0)
+        if (enemy.GetVida() <= 0 && target.gameObject.activeSelf)
         {
             target.gameObject.SetActive(false);
             gameManager.aumentarRecurso();

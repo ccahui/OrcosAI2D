@@ -43,6 +43,14 @@ public class GameRTSController : MonoBehaviour
         if (Input.GetMouseButton(1))
         {
             Vector3 targetPosition = position();
+
+            // Una unidad
+            if(unitsList.Count == 1)
+            {
+                unitsList[0].MoveTo(targetPosition);
+                return;
+            }
+            //Varias Unidades 
             List<Vector3> targetPositionList = GetPositionListAround(targetPosition, new float[] { 10f, 20f, 30f}, new int[] {5,10,20});
             int index = 0;
             foreach(UnitRTS unit in unitsList)
