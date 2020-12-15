@@ -13,7 +13,7 @@ public class PlayerBehavior : MonoBehaviour
     public float timer; //Timer for cooldown between attacks
     #endregion
 
-    public GameManager gameManager;
+    private GameManager gameManager;
 
     #region Private Variables
     private RaycastHit2D hit;
@@ -28,7 +28,8 @@ public class PlayerBehavior : MonoBehaviour
 
 
 
-    private float VIDA_FINAL = 800;
+    public float VIDA = 400;
+    public int ATAQUE = 50;
     private int vida;
 
     HealthBar healthBar;
@@ -41,15 +42,14 @@ public class PlayerBehavior : MonoBehaviour
         intTimer = timer; //Store the inital value of timer
         anim = GetComponent<Animator>();
         distance = float.MaxValue;
-        gameManager = GameManager.Instance;
        
-
     }
     // Start is called before the first frame update
     void Start()
     {
         healthBar.SetSize(1);
-        vida = (int)VIDA_FINAL;
+        vida = (int)VIDA;
+        gameManager = GameManager.Instance;
     }
 
 
@@ -152,7 +152,7 @@ public class PlayerBehavior : MonoBehaviour
         }
         else
         {
-            float size = (vida * 1f) / VIDA_FINAL;
+            float size = (vida * 1f) / VIDA;
             healthBar.SetSize(size);
         }
     }
@@ -176,8 +176,9 @@ public class PlayerBehavior : MonoBehaviour
         if (target != null)
         {
             EnemyBehavior enemy = target.GetComponent<EnemyBehavior>();
-            enemy.enemeyAttack(50);
+            enemy.enemeyAttack(ATAQUE);
             verificarVida(enemy);
+            gameManager.pasasteDeNivel();
         }
     }
 

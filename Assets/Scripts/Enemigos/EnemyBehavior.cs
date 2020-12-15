@@ -27,10 +27,12 @@ public class EnemyBehavior : MonoBehaviour
     #endregion
 
 
-    private float VIDA_FINAL = 200;
+    public float VIDA_FINAL = 300;
+    public int ATAQUE = 50;
     private int vida;
     HealthBar healthBar;
 
+    private GameManager gameManager;
     void Awake()
     {
         SelectTarget();
@@ -46,6 +48,7 @@ public class EnemyBehavior : MonoBehaviour
     {
         healthBar.SetSize(1);
         vida = (int)VIDA_FINAL;
+        gameManager = GameManager.Instance;
     }
 
     public void enemeyAttack(int daño)
@@ -210,8 +213,9 @@ public class EnemyBehavior : MonoBehaviour
         if(target != null)
         {
             PlayerBehavior player = target.GetComponent<PlayerBehavior>();
-            player.enemeyAttack(50);
+            player.enemeyAttack(ATAQUE);
             verificarVida(player);
+            gameManager.gameOver();
         }
     }
     void verificarVida(PlayerBehavior player)
