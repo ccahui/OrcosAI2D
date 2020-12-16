@@ -28,12 +28,12 @@ public class GameManager : MonoBehaviour
     {
         recurso++;
         Debug.Log("Mato un enemigo +1 oro");
-}
+    }
     public void gameOver()
     {
         foreach (PlayerBehavior aliado in aliados)
         {
-            if(aliado.gameObject.activeSelf == true)
+            if (aliado.gameObject.activeSelf == true)
             {
                 return;
             }
