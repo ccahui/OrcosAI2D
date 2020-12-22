@@ -7,6 +7,9 @@ TagManager:
   - ground
   - Aliado
   - Enemy
+  - EscMenu
+  - GameManager
+  - HUD
   layers:
   - Default
   - TransparentFX

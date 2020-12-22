@@ -27,6 +27,8 @@ public class GameManager : MonoBehaviour
     public void aumentarRecurso()
     {
         recurso++;
+        ScoreView.instance.UpdateScore(recurso);
+        ScoreView.instance.UpdateKillCount(recurso);
         Debug.Log("Mato un enemigo +1 oro");
     }
     public void gameOver()
@@ -49,7 +51,9 @@ public class GameManager : MonoBehaviour
                 return;
             }
         }
-        Debug.Log("IR A SIGUIENTE NIVEL: Dispone de +" + recurso + " oro");
+
+        
+        EscMenuView.instance.Show();      
     }
 
 }

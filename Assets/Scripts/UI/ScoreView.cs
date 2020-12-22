@@ -9,8 +9,14 @@ public class ScoreView : MonoBehaviour
     private TextMeshProUGUI killCountText;
     [SerializeField]
     private TextMeshProUGUI scoreText;
+
+    public static ScoreView instance;
+
     private void Awake()
     {
+        if(instance == null){
+            instance = this;
+        }
         UpdateKillCount(0);
         UpdateScore(0);
     }
