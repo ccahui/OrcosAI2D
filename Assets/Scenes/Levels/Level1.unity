@@ -3202,6 +3202,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HUD
       objectReference: {fileID: 0}
+    - target: {fileID: 1841408629778546844, guid: 950038b79868ea962a5b102893029de1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1841408630830935464, guid: 950038b79868ea962a5b102893029de1,
         type: 3}
       propertyPath: m_textInfo.characterCount
