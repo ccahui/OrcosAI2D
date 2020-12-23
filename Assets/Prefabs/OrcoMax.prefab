@@ -392,7 +392,7 @@ PrefabInstance:
     - target: {fileID: 7156960624154919595, guid: 5160c23b2430bb8a6a478034ab3d7282,
         type: 3}
       propertyPath: m_SortingOrder
-      value: -1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7156960624186083624, guid: 5160c23b2430bb8a6a478034ab3d7282,
         type: 3}
@@ -482,17 +482,17 @@ PrefabInstance:
     - target: {fileID: 7156960624186083627, guid: 5160c23b2430bb8a6a478034ab3d7282,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.46
+      value: -2.400735
       objectReference: {fileID: 0}
     - target: {fileID: 7156960624186083627, guid: 5160c23b2430bb8a6a478034ab3d7282,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -27.33
+      value: 72.031425
       objectReference: {fileID: 0}
     - target: {fileID: 7156960624186083627, guid: 5160c23b2430bb8a6a478034ab3d7282,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 5.440679
+      value: 5.040679
       objectReference: {fileID: 0}
     - target: {fileID: 7156960624186083627, guid: 5160c23b2430bb8a6a478034ab3d7282,
         type: 3}
@@ -537,7 +537,7 @@ PrefabInstance:
     - target: {fileID: 7156960624186083629, guid: 5160c23b2430bb8a6a478034ab3d7282,
         type: 3}
       propertyPath: m_Name
-      value: OrcoVerdeClaro
+      value: OrcoMax
       objectReference: {fileID: 0}
     - target: {fileID: 7156960624186083629, guid: 5160c23b2430bb8a6a478034ab3d7282,
         type: 3}
