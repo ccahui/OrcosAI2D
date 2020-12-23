@@ -9,4 +9,5 @@ public class Level : ScriptableObject{
     public bool isActive;
     public Level nextLevel;
     public int numberOfEnemies;
+    public Sprite imageSprite;
 }

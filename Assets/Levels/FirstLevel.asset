@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8286f3300dc2129ac8e018a622f8c1c6, type: 3}
   m_Name: FirstLevel
   m_EditorClassIdentifier: 
-  sceneName: Nivel1
-  levelTitle: Primer Nivel
+  sceneName: Level1
+  levelTitle: Mina
   isActive: 1
   nextLevel: {fileID: 11400000, guid: e62e4578c84f77978ab31c29f8d2e2b9, type: 2}
   numberOfEnemies: 20
+  imageSprite: {fileID: 21300000, guid: b903c10da1b3ce536b2142d4cf671b84, type: 3}
