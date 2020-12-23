@@ -1220,14 +1220,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 695856894, guid: 950038b79868ea962a5b102893029de1, type: 3}
-      propertyPath: escMenu
-      value: 
-      objectReference: {fileID: 1035812358}
-    - target: {fileID: 1035812358, guid: 950038b79868ea962a5b102893029de1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
     - target: {fileID: 1841408629778546840, guid: 950038b79868ea962a5b102893029de1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1338,21 +1330,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: HUD
       objectReference: {fileID: 0}
-    - target: {fileID: 1841408629778546844, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
-    - target: {fileID: 1841408630356867454, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
-    - target: {fileID: 1841408630830935466, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
     - target: {fileID: 1841408630830935467, guid: 950038b79868ea962a5b102893029de1,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -1383,11 +1360,6 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1841408631364899078, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
     - target: {fileID: 1841408631364899079, guid: 950038b79868ea962a5b102893029de1,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -1417,41 +1389,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SizeDelta.y
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3756034997336983300, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3756034997585273929, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3756034997952400493, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3756034998327600095, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3756034998347006720, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3756034998830213305, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3756034999040374836, guid: 950038b79868ea962a5b102893029de1,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 950038b79868ea962a5b102893029de1, type: 3}
@@ -2302,12 +2239,6 @@ PrefabInstance:
     - {fileID: 7156960624186083631, guid: 5160c23b2430bb8a6a478034ab3d7282, type: 3}
     - {fileID: 7156960624186083630, guid: 5160c23b2430bb8a6a478034ab3d7282, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 5160c23b2430bb8a6a478034ab3d7282, type: 3}
---- !u!1 &1035812358 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1035812358, guid: 950038b79868ea962a5b102893029de1,
-    type: 3}
-  m_PrefabInstance: {fileID: 726470877}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1127668591
 GameObject:
   m_ObjectHideFlags: 0
