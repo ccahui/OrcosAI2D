@@ -19,6 +19,7 @@ public class PlayerBehavior : MonoBehaviour
     private RaycastHit2D hit;
     private Transform target;
     private Animator anim;
+    private Animator anim2;
     private float distance; //Store the distance b/w enemy and player
     private bool attackMode;
     private bool inRange; //Check if Player is in range
@@ -41,6 +42,7 @@ public class PlayerBehavior : MonoBehaviour
 
         intTimer = timer; //Store the inital value of timer
         anim = GetComponent<Animator>();
+        anim2 = transform.Find("Ogre").gameObject.GetComponent<Animator>();
         distance = float.MaxValue;
        
     }
@@ -73,6 +75,7 @@ public class PlayerBehavior : MonoBehaviour
         if (inRange == false)
         {
             anim.SetBool("moving", false);
+            
             StopAttack();
         }
         
@@ -99,6 +102,7 @@ public class PlayerBehavior : MonoBehaviour
         {
             Cooldown();
             anim.SetBool("golpear", false);
+            anim2.SetBool("atacar", false);
         }
     }
 
@@ -130,6 +134,7 @@ public class PlayerBehavior : MonoBehaviour
         cooling = false;
         attackMode = false;
         anim.SetBool("golpear", false);
+        anim2.SetBool("atacar", false);
     }
     void Attack()
     {
@@ -138,6 +143,7 @@ public class PlayerBehavior : MonoBehaviour
 
         anim.SetBool("moving", false);
         anim.SetBool("golpear", true);
+        anim2.SetBool("atacar", true);
 
     }
 
